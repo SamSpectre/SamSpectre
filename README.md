@@ -13,6 +13,9 @@
 | [autoresearch-agents](https://github.com/SamSpectre/autoresearch-agents) | Karpathy's autoresearch pattern applied to agentic systems | Autonomous self-improvement against measurable quality metrics |
 | [multimodal-vision-api](https://github.com/SamSpectre/multimodal-vision-api) | Enterprise vision API: OCR, table extraction, classification, robotics vision | Multi-agent routing, JWT auth, 30+ FPS real-time tracking |
 | [Enterprise-Voice-Agents](https://github.com/SamSpectre/Enterprise-Voice-Agents) | Multi-tenant voice AI platform for recruitment screening | ElevenLabs + FastAPI, HMAC-verified webhooks, EN/DE, [live on Vercel](https://enterprise-voice-agents.vercel.app) |
+| [enterprise-sql-agent](https://github.com/SamSpectre/enterprise-sql-agent) | Natural-language SQL agent over 2.96M-row PostgreSQL | LangGraph with risk classification, human-in-the-loop approval, memory + caching |
+| [realtime-data-fabric](https://github.com/SamSpectre/realtime-data-fabric) | Streaming lakehouse on Azure Databricks over 1.8M+ GitHub events | Medallion architecture, MLflow registry, end-to-end pipeline in 21.5s |
+| [multi-source-data-intelligence](https://github.com/SamSpectre/multi-source-data-intelligence) | Delta Lake platform unifying SEC EDGAR, World Bank, Yahoo Finance | DuckDB SQL agent + ChromaDB RAG agent behind an LLM supervisor |
 | [deep-research-report-agent](https://github.com/SamSpectre/deep-research-report-agent) | Multi-agent research system with report and presentation generation | Multi-model orchestration (Claude + GPT), web research via Tavily |
 
 Selected enterprise work is private — competitive-intelligence pipelines for EV specs (LangGraph, verified extraction accuracy), regulated document intelligence (Mistral Document AI on Azure, confidence scoring, deterministic validation), vendor-risk knowledge-graph RAG with EU AI Act compliance, real-time personal voice AI (<300ms latency). Architecture walkthroughs available on request.
